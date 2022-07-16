@@ -1,6 +1,9 @@
 [theme]
 name = "Discord"
 
+[ui]
+drop-shadow-width = 0
+
 [theme.base]
 white = "#ABB2BF"
 black = "#282C34"
@@ -128,14 +131,3 @@ magenta = "#C678DD"
 "terminal.white" = "$white"
 "terminal.yellow" = "$yellow"
 
-[ui]
-font-family = ""
-font-size = 14
-header-height = 35
-status-height = 25
-tab-min-width = 100
-scroll-width = 10
-drop-shadow-width = 0
-custom-titlebar = true
-hover-font-family = ""
-hover-font-size = 0
