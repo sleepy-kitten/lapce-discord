@@ -1,0 +1,141 @@
+[theme]
+name = "discord"
+
+[theme.base]
+white = "#ABB2BF"
+black = "#282C34"
+grey = "#3E4451"
+blue = "#61AFEF"
+red = "#E06C75"
+yellow = "#E5C07B"
+orange = "#D19A66"
+green = "#98C379"
+purple = "#C678DD"
+cyan = "#56B6C2"
+magenta = "#C678DD"
+
+[theme.syntax]
+"attribute" = "$yellow"
+"boolean" = "#569cd6"
+"builtinType" = "$cyan"
+"character" = "$purple"
+"comment" = "#6a9955"
+"conditional" = "$blue"
+"constant" = "#d4d4d4"
+"constructor" = "#4fc1ff"
+"embedded" = "$cyan"
+"enum" = "#4ec9b0"
+"enum-member" = "#4fc1ff"
+"enumMember" = "#4fc1ff"
+"escape" = "$cyan"
+"exception" = "$red"
+"field" = "$red"
+"float" = "$yellow"
+"function" = "#dcdcaa"
+"function.method" = "#dcdcaa"
+"include" = "$magenta"
+"interface" = "#4ec9b0"
+"keyword" = "#569cd6"
+"method" = "#dcdcaa"
+"number" = "#b5cea8"
+"property" = "#9cdcfe"
+"punctuation.bracket" = "$blue"
+"punctuation.delimiter" = "$orange"
+"repeat" = "$green"
+"selfKeyword" = "#569cd6"
+"string" = "#ce9178"
+"struct" = "#4ec9b0"
+"structure" = "#4ec9b0"
+"symbol" = "$yellow"
+"type" = "#4ec9b0"
+"variable" = "#8bdcfe"
+"type.builtin" = "$cyan"
+"typeAlias" = "#4ec9b0"
+"variable.other.member" = "$red"
+
+[theme.ui]
+"activity.background" = "#202225"
+"activity.current" = "#5865f2"
+
+"completion.background" = "#202225"
+"completion.current" = "#292b2f"
+
+"editor.background" = "#36393f"
+"editor.caret" = "#5865f2"
+"editor.current_line" = "#32353b"
+"editor.dim" = "#5C6370"
+"editor.focus" = "#ddddee"
+"editor.foreground" = "#d4d4d4"
+"editor.link" = "$cyan"
+"editor.selection" = "#264f78"
+
+"error_lens.error.background" = "#E06C7520"
+"error_lens.error.foreground" = "$red"
+"error_lens.other.background" = "#5C637020"
+"error_lens.other.foreground" = "#5C6370"
+"error_lens.warning.background" = "#E5C07B20"
+"error_lens.warning.foreground" = "$yellow"
+
+"hover.background" = "#202225"
+
+"inlay_hint.background" = "#40444b"
+"inlay_hint.foreground" = "#c9cbce"
+
+"lapce.active_tab" = "#202225"
+"lapce.border" = "#202225"
+"lapce.dropdown_shadow" = "#000000"
+"lapce.error" = "$red"
+"lapce.inactive_tab" = "$grey"
+"lapce.scroll_bar" = "$grey"
+"lapce.warn" = "$yellow"
+
+"markdown.blockquote" = "#898989"
+
+"palette.background" = "#202225"
+"palette.current" = "#2C313A"
+
+"panel.background" = "#202225"
+"panel.current" = "#37373d"
+"panel.hovered" = "#37393f"
+
+"source_control.added" = "#50A14F32"
+"source_control.modified" = "#0184BC32"
+"source_control.removed" = "#FF526632"
+
+"status.background" = "#5865f2"
+"status.modal.insert" = "$red"
+"status.modal.normal" = "$blue"
+"status.modal.terminal" = "$purple"
+"status.modal.visual" = "$yellow"
+
+"terminal.background" = "#292b2f"
+"terminal.black" = "$black"
+"terminal.blue" = "$blue"
+"terminal.bright_black" = "#545862"
+"terminal.bright_blue" = "$blue"
+"terminal.bright_cyan" = "$cyan"
+"terminal.bright_green" = "$green"
+"terminal.bright_magenta" = "$magenta"
+"terminal.bright_red" = "$red"
+"terminal.bright_white" = "#C8CCD4"
+"terminal.bright_yellow" = "$yellow"
+"terminal.cursor" = "$white"
+"terminal.cyan" = "$cyan"
+"terminal.foreground" = "$white"
+"terminal.green" = "$green"
+"terminal.magenta" = "$magenta"
+"terminal.red" = "$red"
+"terminal.white" = "$white"
+"terminal.yellow" = "$yellow"
+
+[ui]
+font-family = ""
+font-size = 14
+header-height = 35
+status-height = 25
+tab-min-width = 100
+scroll-width = 10
+drop-shadow-width = 0
+custom-titlebar = true
+hover-font-family = ""
+hover-font-size = 0
