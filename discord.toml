@@ -60,7 +60,7 @@ magenta = "#C678DD"
 "activity.background" = "#202225"
 "activity.current" = "#5865f2"
 
-"completion.background" = "#202225"
+"completion.background" = "#2f3136"
 "completion.current" = "#292b2f"
 
 "editor.background" = "#36393f"
@@ -79,12 +79,12 @@ magenta = "#C678DD"
 "error_lens.warning.background" = "#E5C07B20"
 "error_lens.warning.foreground" = "$yellow"
 
-"hover.background" = "#202225"
+"hover.background" = "#2f3136"
 
 "inlay_hint.background" = "#40444b"
 "inlay_hint.foreground" = "#c9cbce"
 
-"lapce.active_tab" = "#202225"
+"lapce.active_tab" = "#2f3136"
 "lapce.border" = "#202225"
 "lapce.dropdown_shadow" = "#000000"
 "lapce.error" = "$red"
@@ -94,12 +94,12 @@ magenta = "#C678DD"
 
 "markdown.blockquote" = "#898989"
 
-"palette.background" = "#202225"
-"palette.current" = "#2C313A"
+"palette.background" = "#2f3136"
+"palette.current" = "#36393f"
 
 "panel.background" = "#202225"
-"panel.current" = "#37373d"
-"panel.hovered" = "#37393f"
+"panel.current" = "#2f3136"
+"panel.hovered" = "#2f3136"
 
 "source_control.added" = "#50A14F32"
 "source_control.modified" = "#0184BC32"
@@ -130,4 +130,3 @@ magenta = "#C678DD"
 "terminal.red" = "$red"
 "terminal.white" = "$white"
 "terminal.yellow" = "$yellow"
-
