@@ -1,10 +1,10 @@
-[theme]
+[color-theme]
 name = "Discord"
 
 [ui]
 drop-shadow-width = 0
 
-[theme.base]
+[color-theme.base]
 white = "#ABB2BF"
 black = "#282C34"
 grey = "#3E4451"
@@ -17,7 +17,7 @@ purple = "#C678DD"
 cyan = "#56B6C2"
 magenta = "#C678DD"
 
-[theme.syntax]
+[color-theme.syntax]
 "attribute" = "$yellow"
 "boolean" = "#569cd6"
 "builtinType" = "$cyan"
@@ -56,7 +56,7 @@ magenta = "#C678DD"
 "typeAlias" = "#4ec9b0"
 "variable.other.member" = "$red"
 
-[theme.ui]
+[color-theme.ui]
 "activity.background" = "#202225"
 "activity.current" = "#5865f2"
 
